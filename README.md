@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Khemchand Saini
 
-<!--
-**montylr2722l/montylr2722l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Data Science) Undergraduate
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Engineering
+- Software Engineering
+- AI & Machine Learning
+- Python Developer
+
+Currently learning
+
+- Docker
+- Linux
+- Go
+- Distributed Systems
+
+## Tech Stack
+
+Python • C++ • SQL • Azure • PySpark • Docker • Linux • React • Node.js • MongoDB
+
+## Featured Projects
+
+- Food Delivery Analytics Pipeline
+- ULTRON AI Assistant
+- Smart Task Manager
+
+📫 Email: vishu.869600@gmail.com
